@@ -5,6 +5,7 @@
 - [Code](https://github.com/thimblesd/mathe-lernen-geometrie-aussages-tze/blob/master/Mathe_%C3%BCben_code.cpp)
 - [Lizenz](https://github.com/thimblesd/mathe-lernen-geometrie-aussages-tze/blob/master/LICENSE)
 - [Download als Zip](https://github.com/thimblesd/Download-as-Zip/archive/master.zip)
+- Download über Git Befehl: `git clone https://github.com/thimblesd/Download-as-Zip.git`
 
 
 
@@ -18,3 +19,5 @@
 - [Wiki erstellen](https://www.mediawiki.org/wiki/MediaWiki)
 - [Gui erstellen](https://www.gtk.org/)
 - [Zertifikat von Let's encrypt](https://letsencrypt.org/)
+- [Webseite Git](https://git-scm.com/)
+- [Git Gui Git Kraken](https://www.gitkraken.com/)
