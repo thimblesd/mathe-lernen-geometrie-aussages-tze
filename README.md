@@ -22,3 +22,4 @@
 - [Webseite Git](https://git-scm.com/)
 - [Git Gui Git Kraken](https://www.gitkraken.com/)
 - [Unsere Webpage auf Thimble](https://thimbleprojects.org/netzdesk/468518)
+- [Für anfänger in sachen Websitegestaltung, öffnen sie dieses Beispielprojekt auf Thimble](https://thimbleprojects.org/netzdesk/401422/Ducktales.html)
